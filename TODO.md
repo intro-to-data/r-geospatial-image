@@ -1,0 +1,2 @@
+- [ ] Reduce the number of layers by adding scripts.
+- [ ] Document `set LOCAL_PASS "belay on"`

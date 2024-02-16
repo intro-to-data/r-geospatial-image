@@ -1,0 +1,7 @@
+R ACPHS Geospatial
+
+Local development container I use to develop code offline.
+
+Goal: I want this to more or less be a replicate of the default Posit Cloud images.
+
+https://github.com/nx10/httpgd
